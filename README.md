@@ -317,6 +317,4 @@ FROM marks m
 WHERE m.student_id = s.student_id
 );
 
-![Alt text](<Screenshot from 2023-11-20 11-43-47.png>)
-
----
+![s](<Screenshot from 2023-11-20 11-43-47.png>)
