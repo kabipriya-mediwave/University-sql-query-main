@@ -289,8 +289,6 @@ GROUP BY s.subject_name;
 
 ![Alt text](<Screenshot from 2023-11-20 11-42-27.png>)
 
----
-
 ## 8.Get over all students list with semester marks:
 
 SELECT m.student_id, s.student_name, AVG(m.marks) AS cgp,co.course_name,sem.sem_month,sem.sem_year
